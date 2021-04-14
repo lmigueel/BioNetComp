@@ -112,6 +112,7 @@ To use as a Python library
 ```python
 
 import bionetcomp
+import os
 
 # BioNetComp arguments
 input1 = '/opt/data/input1.txt'
@@ -120,6 +121,9 @@ output_folder = 'bionetcomp_output'
 taxid = 4932
 threshold = 0.05
 fdr = 0.05
+
+#create the output folder
+os.system("mkdir %s"%output_folder)
 
 #develoment
 network1 = bionetcomp.network_development(input1,taxid,threshold)
