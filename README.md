@@ -116,7 +116,7 @@ import bionetcomp
 # BioNetComp arguments
 input1 = '/opt/data/input1.txt'
 input2 = '/opt/data/input2.txt'
-output_folder_name = 'bionetcomp_output'
+output_folder = 'bionetcomp_output'
 taxid = 4932
 threshold = 0.05
 fdr = 0.05
