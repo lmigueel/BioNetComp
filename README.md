@@ -79,7 +79,7 @@ example: python3 bionetcomp.py --in1 list1.txt --in2 list2.txt --output output_f
 ```
 In the output_folder, ppinet generates the following outputs:
 
-Remember: 'network1' and 'network2' labels are associated to --in1 and --in2 list of genes, respectively. 
+Remember: 'network1' and 'network2' labels are associated to --in1 and --in2 list of genes, respectively. If there are no edges for network plots, or any nodes for enrichment, a warning will be shown for the user. 
 
     1. node_report.txt  all nodes of both networks divided by network
     2. edge_report.txt  all edges of both networks divided by network
