@@ -1,4 +1,7 @@
 # BioNetComp
+
+[![PyPI](https://img.shields.io/pypi/v/bionetcomp.svg?label=PyPI&color=green)](https://pypi.org/project/bionetcomp/)
+
 BioNetComp: a Python package for biological network generation and comparison 
 
         ██████╗ ██╗ ██████╗ ███╗   ██╗███████╗████████╗ ██████╗ ██████╗ ███╗   ███╗██████╗ 
@@ -9,6 +12,16 @@ BioNetComp: a Python package for biological network generation and comparison
         ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     
                                                                                    
         version 1.0
+
+
+
+
+- [Installation](# Installing)
+- [Overview](# Overview)
+- [Workflow](# Workflow)
+- [Command-line interface](# Command-line interface)
+- [Python library usage](# Python library usage)
+- [Examples](# Examples)
 
 # Installing
 
