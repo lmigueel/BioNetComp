@@ -11,7 +11,7 @@ BioNetComp: a Python package for biological network generation and comparison
         ██████╔╝██║╚██████╔╝██║ ╚████║███████╗   ██║   ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     
         ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     
                                                                                    
-        version 1.0
+        version 1.1
 
 
 
