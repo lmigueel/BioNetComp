@@ -77,7 +77,7 @@ optional arguments:
 
 example: python3 bionetcomp.py --in1 list1.txt --in2 list2.txt --output output_folder --taxid 9606
 ```
-In the output_folder, ppinet generates the following outputs:
+In the output_folder, BioNetComp generates the following outputs:
 
 Remember: 'network1' and 'network2' labels are associated to --in1 and --in2 list of genes, respectively. If there are no edges for network plots, or any nodes for enrichment, a warning will be shown for the user. 
 
@@ -118,7 +118,7 @@ Colors of the plots:
                              
 # Python library usage
 
-ppinet generates a folder in currently folder with output_folder name. 
+BioNetComp generates a folder in currently folder with output_folder name. 
 
 To use as a Python library
 
