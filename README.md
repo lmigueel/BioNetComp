@@ -16,12 +16,12 @@ BioNetComp: a Python package for biological network generation and comparison
 
 
 
-- [Installation](# Installing)
-- [Overview](# Overview)
-- [Workflow](# Workflow)
-- [Command-line interface](# Command-line interface)
-- [Python library usage](# Python library usage)
-- [Examples](# Examples)
+- [Installation](#installing)
+- [Overview](#overview)
+- [Workflow](#workflow)
+- [Command-line interface](#command-line-interface)
+- [Python library usage](#python-library-usage)
+- [Examples](#examples)
 
 # Installing
 
