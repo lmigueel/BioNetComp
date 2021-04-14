@@ -65,6 +65,7 @@ optional arguments:
 example: python3 bionetcomp.py --in1 list1.txt --in2 list2.txt --output output_folder --taxid 9606
 ```
 In the output_folder, ppinet generates the following outputs:
+
 Remember: 'network1' and 'network2' labels are associated to --in1 and --in2 list of genes, respectively. 
 
     1. node_report.txt  all nodes of both networks divided by network
@@ -97,7 +98,9 @@ Remember: 'network1' and 'network2' labels are associated to --in1 and --in2 lis
 Colors of the plots:
 
 (i)   In the final network, nodes in red, blue, and yellow represent the intersection nodes, exclusive nodes of network1, and exclusive nodes of network2, respectively. 
+
 (ii)  Edges in red represent the intersection ones. 
+
 (iii) In basics network plots, the degree of each node delimits the size of the node in the final network plot, allowing visualization of the hub nodes. The viridis pallete was used. 
                              
 # Python library usage
