@@ -1,6 +1,7 @@
 # BioNetComp
 
 [![PyPI](https://img.shields.io/pypi/v/bionetcomp.svg?label=PyPI&color=green)](https://pypi.org/project/bionetcomp/)
+[![Conda](https://img.shields.io/conda/vn/bioconda/bionetcomp.svg?label=Conda&color=green)](https://anaconda.org/bioconda/bionetcomp)
 [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.04.14.439897-red)](https://doi.org/10.1101/2021.04.14.439897)
 
 BioNetComp: a Python package for biological network development and comparison 
